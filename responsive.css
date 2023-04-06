@@ -153,27 +153,27 @@
         border: 1px solid black;
     }
     .top-menu{
-        background-image: url(/img/top_icon.jpg);
+        background-image: url(https://github.com/yuuki106/azuki_schedule/blob/main/top_icon.jpg?raw=true);
         background-size: contain;
     }
     .pro-menu{
-        background-image: url(/img/profile_icon.jpg);
+        background-image: url(https://github.com/yuuki106/azuki_schedule/blob/main/profile_icon.jpg?raw=true);
         background-size: contain;
     }
     .sch-menu{
-        background-image: url(/img/schedule_icon.jpg);
+        background-image: url(https://github.com/yuuki106/azuki_schedule/blob/main/schedule_icon.jpg?raw=true);
         background-size: contain;
     }
     .his-menu{
-        background-image: url(/img/history_icon.jpg);
+        background-image: url(https://github.com/yuuki106/azuki_schedule/blob/main/history_icon.jpg?raw=true);
         background-size: contain;
     }
     .gal-menu{
-        background-image: url(/img/gallery_icon.jpg);
+        background-image: url(https://github.com/yuuki106/azuki_schedule/blob/main/gallery_icon.jpg?raw=true);
         background-size: contain;
     }
     .goo-menu{
-        background-image: url(/img/Goods_icon.jpg);
+        background-image: url(https://github.com/yuuki106/azuki_schedule/blob/main/Goods_icon.jpg?raw=true);
         background-size: contain;
     }
 
